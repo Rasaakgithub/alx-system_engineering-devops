@@ -1,2 +1,2 @@
-#!/bi/bash
-chmod +114
+#!/bin/bash
+chmod +114 hello
