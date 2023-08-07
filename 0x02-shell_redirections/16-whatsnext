@@ -1,1 +1,2 @@
-
+#!/bin/bash
+greb -iA 3 "root" /etc/passwd
